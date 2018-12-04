@@ -109,9 +109,11 @@ http://johnguerra.co/classes/visual_analytics_fall_2018/
 
 •	Project's demo
 
-https://prismapar.github.io/best_school_en/index.html
+Spanish version: https://prismapar.github.io/best_school_es/index.html      
+English version: https://prismapar.github.io/best_school_en/index.html
 
 •	How to run it
 
-Enter the url https://prismapar.github.io/best_school_en/index.html
+Spanish version: https://prismapar.github.io/best_school_es/index.html      
+English version: https://prismapar.github.io/best_school_en/index.html
 
