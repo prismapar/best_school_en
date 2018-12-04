@@ -1,7 +1,8 @@
 $(document).ready(function(){
 
     $("#top").change(function () {
-       getTop()     
+       getTop(); 
+       load_schools();    
     });  
 
      
